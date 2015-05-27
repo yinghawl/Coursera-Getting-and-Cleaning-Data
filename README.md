@@ -1,11 +1,11 @@
-Project 1 Coursera course: Getting and Cleaning Data
+**Project 1 Coursera course: Getting and Cleaning Data**
 The data used in the project was downloaded from UCI Machine Learning Repository. The folder name is "UCL HAR Dataset". The data that are used includes the following;
 [Train dataset] ./train/X_train.txt, ./train/Y_train.txt, ./train/subject_train.txt,
 [Test dataset]./test/X_test.txt, ./test/Y_test.txt, ./test/subject_test.txt,
 [Label]./activity_labels.txt, ./features.txt 
 
 Save the downloaded file on your working directory. Then you should be able to run it right away. 
-
+**The Breakdown of the Project**
 The whole project was executed in several steps;
 Step 1: Read both train and test dataset and combine them
 Step 2: Extract the measurements of the mean and standard deviation for each measurement 
@@ -55,6 +55,5 @@ What I did next is to use melt function to melt down the table. It still gave th
 The reason I prefer this over the wide form is that I believe the goal of tidy data, as Hadley Wickham stated, prepare data for the next step of processing.Making it easier to understand and process,therefore is the priority.
 I think this also partially came down to personal preference. After all, it is just one more command line. 
  
-Codebook
 
 
