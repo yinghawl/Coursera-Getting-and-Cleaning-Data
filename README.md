@@ -1,4 +1,4 @@
-##Project 1 Coursera course: Getting and Cleaning Data (an <h1> tag)
+##Project 1 Coursera course: Getting and Cleaning Data <h1>
 
 The data used in the project was downloaded from UCI Machine Learning Repository. The folder name is "UCL HAR Dataset". The data that are used includes the following;
 [Train dataset] ./train/X_train.txt, ./train/Y_train.txt, ./train/subject_train.txt,
@@ -7,7 +7,7 @@ The data used in the project was downloaded from UCI Machine Learning Repository
 
 Save the downloaded file on your working directory. Then you should be able to run it right away. 
 
-##The Breakdown of the Project (an <h2> tag)
+##The Breakdown of the Project <h2>
 
 The whole project was executed in several steps;
 Step 1: Read both train and test dataset and combine them
