@@ -1,14 +1,11 @@
 ##Project 1 Coursera course: Getting and Cleaning Data <h1>
-
 The data used in the project was downloaded from UCI Machine Learning Repository. The folder name is "UCL HAR Dataset". The data that are used includes the following;
 [Train dataset] ./train/X_train.txt, ./train/Y_train.txt, ./train/subject_train.txt,
 [Test dataset]./test/X_test.txt, ./test/Y_test.txt, ./test/subject_test.txt,
 [Label]./activity_labels.txt, ./features.txt 
 
 Save the downloaded file on your working directory. Then you should be able to run it right away. 
-
 ##The Breakdown of the Project <h2>
-
 The whole project was executed in several steps;
 Step 1: Read both train and test dataset and combine them
 Step 2: Extract the measurements of the mean and standard deviation for each measurement 
